@@ -53,7 +53,7 @@ setup(
         'zeep',
         'vatnumber',
         'vobject',
-        'werkzeug',
+        'werkzeug <= 0.15.6',
         'xlsxwriter',
         'xlwt',
     ],
